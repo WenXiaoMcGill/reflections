@@ -1,0 +1,21 @@
+git diff
+git init
+git log
+git status -a
+git add
+git commit
+
+git remote origin
+git remote add origin master
+git remote -a
+
+git clone http:~
+git push origin master
+git pull origin master
+
+git branch
+git branch name
+git checkout
+git branch -d
+
+modify
